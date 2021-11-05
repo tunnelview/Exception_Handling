@@ -18,4 +18,6 @@ public class exception_handling_try_catch_block {
         } catch (IOException e) { // auto generated catch block
             e.printStackTrace();
             // Error Handled at this block using try - catch - no passing buck
-        }}}
+        }
+    }
+}
